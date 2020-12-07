@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CSC 4320 Project</string>
+    <string name="convert_lowercase">Lowercase</string>
+    <string name="convert_uppercase">Uppercase</string>
+    <string name="save_file">Save FIle</string>
+    <string name="editor_hint">Text</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search here</string>
+</resources>
